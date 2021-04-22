@@ -5,7 +5,7 @@ By Dave Brown
 
 ## Business Problem
 
-A real estate firm wants to know what are the top 5 zip codes to flip homes. We must determine where we wan to look, how much data to use, and how to describe best.
+A real estate firm wants to know what are the top 5 zip codes to flip homes. We must determine where we want to look, how much data to use, and how to describe best.
 
 1) For this project, we will only include data from New Jersey.
 
