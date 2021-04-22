@@ -45,9 +45,7 @@ This project was purely based on using past home values in order to predict futu
 
 ## For More Information
 
-## For More Information
-
-Please review my full analysis in my [notebook](/ts_notebook.ipynb) and my [presentation](/).
+Please review my full analysis in my [notebook](/ts_notebook.ipynb) and my [presentation](/time_series_presentation.pdf).
 
 For any additional questions, please contact Dave Brown: davebrown271@gmail.com.
 
